@@ -14,7 +14,7 @@ We want to investigate hippocampal atrophy and Alzheimer’s disease using the A
 Our biggest uncertainty: Identifying a specific angle to target this with to make it unique and novel, as this is potentially a well-established area of research.
 
 ## Current Direction
-At this time, our team is strongly leaning towards Idea 1. To address our concerns about the novelty of the 2000 dataset, we are exploring expanding the scope of this idea to include sleep biomechanics. By integrating an analysis of REM Sleep Without Atonia (RSWA) using raw electromyography from the PhysioNet CAP database, we can create a highly unique project bridging nocturnal motor control and daytime gait symptoms in Parkinson's disease.
+At this time, our team is strongly leaning towards Idea 2. We want to see if **C**erobro**S**pinal **F**luid (CSF) inflamatory factors correlate to hippocampal subfield atropy in people with Alzheimer's Disease. Potentially evaluate the progression of atrophy from  baseline to 12 or 24 months after.
 
 ## Project Plan
 
