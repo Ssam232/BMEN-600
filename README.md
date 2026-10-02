@@ -7,7 +7,7 @@
 We want to investigate gait characteristics that distinguish Parkinson's disease from healthy aging using the Gait in Neurodegenerative Disease Database.
 Our biggest uncertainty: What are the more novel approaches and uses for this dataset, given that it is from 2000?
 
-## Idea 2: Alzheimer’s Disease & Hippocampal Atrophy
+## Idea 2: Alzheimer’s Disease & Hippocampal Atrophy 🟢 GO
 **Link**: https://adni.loni.usc.edu/
 
 We want to investigate hippocampal atrophy and Alzheimer’s disease using the Alzheimer's Disease Neuroimaging Initiative (ADNI).
