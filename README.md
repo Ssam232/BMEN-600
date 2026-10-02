@@ -14,7 +14,7 @@ We want to investigate hippocampal atrophy and Alzheimer’s disease using the A
 Our biggest uncertainty: Identifying a specific angle to target this with to make it unique and novel, as this is potentially a well-established area of research.
 
 ## Current Direction
-At this time, our team is strongly leaning towards Idea 2. We want to see if **C**erobro**S**pinal **F**luid (CSF) inflamatory factors correlate to hippocampal subfield atropy in people with Alzheimer's Disease. Potentially evaluate the progression of atrophy from  baseline to 12 or 24 months after.
+At this time, our team is strongly leaning towards Idea 2. We want to see if **C**erobro**S**pinal **F**luid (CSF) inflammatory factors correlate to hippocampal subfield atrophy in people with Alzheimer's Disease. We  potentially would also want to explore if CSF inflammatory factors can be used to track the progression of atrophy over time.
 
 ## Project Plan
 
