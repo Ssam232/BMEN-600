@@ -50,5 +50,4 @@ files stay in `data/` and are git-ignored, as required by the ADNI Data Use Agre
 ## AI assistance
 
 Steps 1, 3 and 4 were written with Claude (Anthropic; model Claude Opus 5.5, `claude-opus-5-5`). Step 1
-reproduces the participant lists the team used to edit the IDA collections; steps 3 and 4 were tested
-end-to-end on synthetic volumes only and must be re-checked once real FreeSurfer outputs exist.
+reproduces the participant lists the team used to edit the IDA collections.
