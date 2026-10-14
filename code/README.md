@@ -6,7 +6,7 @@ the association differ between CN, MCI and AD?* (ADNI3, year-1 T1 MPRAGE).
 | Step | Script | Status | Output |
 |---|---|---|---|
 | 1 | `01_select_and_match.py` | done | keep/remove lists (`data/derived/`), `outputs/table1_demographics.md`, `outputs/matching_summary.md` |
-| 2 | preprocessing (FreeSurfer, subfield segmentation, QC) | to be added by the preprocessing lead | `data/derived/volumes.csv` (or SUBJECTS_DIR) + `qc.csv` |
+| 2 | preprocessing  | to be added by Adithi | `data/derived/volumes.csv` (or SUBJECTS_DIR) + `qc.csv` |
 | 3 | `03_merge.py` | ready; waiting on step 2 | `data/derived/analysis_dataset.csv`, `outputs/merge_report.md` |
 | 4 | `04_analysis.py` | ready; waiting on step 2 | `outputs/results/*.csv`, `outputs/figures/partial_correlation_heatmap.png` |
 
