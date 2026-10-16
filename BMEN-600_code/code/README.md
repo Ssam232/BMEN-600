@@ -40,12 +40,12 @@ python code/04_analysis.py
 pair is checked automatically. The team then fixed the final sample in `ADNI_Participants.xlsx`: the 24 AD
 participants, their 47 matched controls, and 41 MCI participants compared with the same controls.
 
-**2 - Preprocessing** (from the team's original `BMEN600.ipynb`). For every participant in the spreadsheet:
+**2 - Preprocessing** For every participant in the spreadsheet:
 converts DICOMs (or copies an already-converted NIfTI) to `BIDS_DIR/sub-XXX/anat/sub-XXX_T1w.nii.gz` without moving
 or deleting source files; prints the HippUnfold command (`--modality T1w`); measures each subfield's volume per
 hemisphere by counting voxels in HippUnfold's `space-cropT1w` subfield label map (bigbrain atlas: subiculum,
 CA1, CA2, CA3, CA4, dentate gyrus; whole hippocampus = these + SRLM, cysts excluded); adds eTIV from a
-`Subject,eTIV` CSV or an ADNI UCSF FreeSurfer table (`ST10CV`, matched on image ID); creates `qc.csv` for the
+`Subject,eTIV` CSV (`ST10CV`, matched on image ID); creates `qc.csv` for the
 visual check of HippUnfold's QC images.
 
 **3 - Merge.** One row per participant: demographics, left/right/bilateral volumes, eTIV, QC flag, and the CSF
